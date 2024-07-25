@@ -1,4 +1,4 @@
-# uipath-testmanager_universal-adapter
+# ua-uipath-testmanager
  Adapter can poll all the Defects in a project from UI Path Test Manager.
 
 ## About
